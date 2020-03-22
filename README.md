@@ -2,7 +2,7 @@
 
 ## Diagram
 
-![Diagram](https://github.com/osumasum1/KudosProject/blob/master/DiagramKudos.png)
+![Diagram](https://github.com/osumasum1/Assignment-III---Kardex/blob/master/contenedores.png)
 
 ## Kardex Service
 

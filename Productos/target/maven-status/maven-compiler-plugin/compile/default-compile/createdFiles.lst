@@ -1,0 +1,13 @@
+products\api\ProductsApi.class
+products\auth\ProductsAuthorizer1.class
+products\ProductsConfiguration$1.class
+products\rabbit\Send.class
+products\core\Products.class
+products\ProductsApplication$1.class
+products\core\Session.class
+products\rabbit\RPCClient.class
+products\auth\ProductsAuthenticator.class
+products\ProductsConfiguration.class
+products\ProductsApplication.class
+products\resources\ProductResource.class
+products\db\ProductDAO.class

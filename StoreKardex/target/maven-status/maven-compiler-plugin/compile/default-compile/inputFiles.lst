@@ -1,0 +1,10 @@
+D:\Osmar\Eclipse\Tendencias\StoreKardex\src\main\java\storeKardex\StoreKardexApplication.java
+D:\Osmar\Eclipse\Tendencias\StoreKardex\src\main\java\storeKardex\rabbit\SendKardexCreated.java
+D:\Osmar\Eclipse\Tendencias\StoreKardex\src\main\java\storeKardex\rabbit\ReceiverUpdateKardex.java
+D:\Osmar\Eclipse\Tendencias\StoreKardex\src\main\java\storeKardex\resources\StoreKardexResource.java
+D:\Osmar\Eclipse\Tendencias\StoreKardex\src\main\java\storeKardex\core\Kardex.java
+D:\Osmar\Eclipse\Tendencias\StoreKardex\src\main\java\storeKardex\db\MongoManaged.java
+D:\Osmar\Eclipse\Tendencias\StoreKardex\src\main\java\storeKardex\db\MongoService.java
+D:\Osmar\Eclipse\Tendencias\StoreKardex\src\main\java\storeKardex\rabbit\SendKardexUpdated.java
+D:\Osmar\Eclipse\Tendencias\StoreKardex\src\main\java\storeKardex\StoreKardexConfiguration.java
+D:\Osmar\Eclipse\Tendencias\StoreKardex\src\main\java\storeKardex\rabbit\ReceiverCreateKardex.java

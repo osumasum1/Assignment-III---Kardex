@@ -1,0 +1,7 @@
+products
+products.api
+products.auth
+products.core
+products.db
+products.rabbit
+products.resources

@@ -1,0 +1,8 @@
+kardex\db\MongoManaged.class
+kardex\resources\KardexResource.class
+kardex\KardexApplication.class
+kardex\KardexConfiguration.class
+kardex\core\Kardex.class
+kardex\db\MongoService.class
+kardex\rabbit\SendCreateKardex.class
+kardex\rabbit\SendUpdateKardex.class

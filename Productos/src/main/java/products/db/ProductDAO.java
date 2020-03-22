@@ -9,7 +9,7 @@ import org.skife.jdbi.v2.sqlobject.SqlQuery;
 import org.skife.jdbi.v2.sqlobject.customizers.Mapper;
 
 import com.google.common.base.Optional;
-import com.sun.tools.sjavac.Log;
+//import com.sun.tools.sjavac.Log;
 
 import io.dropwizard.hibernate.AbstractDAO;
 import products.core.Products;

@@ -10,7 +10,7 @@ import org.skife.jdbi.v2.sqlobject.Transaction;
 import org.skife.jdbi.v2.sqlobject.customizers.Mapper;
 
 import com.google.common.base.Optional;
-import com.sun.tools.sjavac.Log;
+//import com.sun.tools.sjavac.Log;
 
 import io.dropwizard.hibernate.AbstractDAO;
 import io.dropwizard.hibernate.UnitOfWork;
